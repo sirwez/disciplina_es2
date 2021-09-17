@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Weslley de Aquino Ferreira
 Engenharia de Software 2
-=======
 Aula Legal
->>>>>>> feedback
+
